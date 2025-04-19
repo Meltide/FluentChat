@@ -39,4 +39,4 @@ pyinstaller -F -w main.py
 ```
 
 ## 截图示例
-![1000085236](https://github.com/user-attachments/assets/98a5acd7-cdf1-48a1-bfbb-20d4354ded4a)
+![截图](https://pic1.imgdb.cn/item/680306c188c538a9b5dcdbe6.jpg)
