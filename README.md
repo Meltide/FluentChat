@@ -7,6 +7,7 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/Meltide/FluentChat)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Meltide/FluentChat)
 ![GitHub Created At](https://img.shields.io/github/created-at/Meltide/FluentChat)
+
 一个使用Python制作的伪AI
 
 </div>
