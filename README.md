@@ -31,7 +31,7 @@ python main.py
 ```bash
 pip install pyinstaller
 ```
-2. 添加环境变量`C:\\Users\\你的用户名\\AppData\\Local\\Programs\\PythonXXX\\Scripts`
+2. 添加环境变量`C:\Users\你的用户名\AppData\Local\Programs\PythonXXX\Scripts`
 3. 在项目目录下输入以下命令来打包
 ```bash
 pyinstaller -F -w main.py
